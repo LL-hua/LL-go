@@ -1,0 +1,12 @@
+hdm
+hdm.exe
+hdm_linux
+hdm_mac
+*.syso
+icon.ico
+icon.png
+*result/
+*_出图.html
+*_土方数据.csv
+*_出错位置.txt
+tools/
